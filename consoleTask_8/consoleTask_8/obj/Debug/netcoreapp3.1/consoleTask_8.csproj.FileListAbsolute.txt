@@ -1,0 +1,13 @@
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\bin\Debug\netcoreapp3.1\consoleTask_8.exe
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\bin\Debug\netcoreapp3.1\consoleTask_8.deps.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\bin\Debug\netcoreapp3.1\consoleTask_8.runtimeconfig.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\bin\Debug\netcoreapp3.1\consoleTask_8.runtimeconfig.dev.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\bin\Debug\netcoreapp3.1\consoleTask_8.dll
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\bin\Debug\netcoreapp3.1\consoleTask_8.pdb
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\obj\Debug\netcoreapp3.1\consoleTask_8.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\obj\Debug\netcoreapp3.1\consoleTask_8.AssemblyInfoInputs.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\obj\Debug\netcoreapp3.1\consoleTask_8.AssemblyInfo.cs
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\obj\Debug\netcoreapp3.1\consoleTask_8.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\obj\Debug\netcoreapp3.1\consoleTask_8.dll
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\obj\Debug\netcoreapp3.1\consoleTask_8.pdb
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_8\consoleTask_8\obj\Debug\netcoreapp3.1\consoleTask_8.genruntimeconfig.cache

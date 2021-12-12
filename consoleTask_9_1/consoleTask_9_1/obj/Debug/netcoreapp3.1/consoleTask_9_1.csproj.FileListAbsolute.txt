@@ -1,0 +1,13 @@
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\bin\Debug\netcoreapp3.1\consoleTask_9_1.exe
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\bin\Debug\netcoreapp3.1\consoleTask_9_1.deps.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\bin\Debug\netcoreapp3.1\consoleTask_9_1.runtimeconfig.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\bin\Debug\netcoreapp3.1\consoleTask_9_1.runtimeconfig.dev.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\bin\Debug\netcoreapp3.1\consoleTask_9_1.dll
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\bin\Debug\netcoreapp3.1\consoleTask_9_1.pdb
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\obj\Debug\netcoreapp3.1\consoleTask_9_1.AssemblyInfoInputs.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\obj\Debug\netcoreapp3.1\consoleTask_9_1.AssemblyInfo.cs
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\obj\Debug\netcoreapp3.1\consoleTask_9_1.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\obj\Debug\netcoreapp3.1\consoleTask_9_1.dll
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\obj\Debug\netcoreapp3.1\consoleTask_9_1.pdb
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\obj\Debug\netcoreapp3.1\consoleTask_9_1.genruntimeconfig.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_9_1\consoleTask_9_1\obj\Debug\netcoreapp3.1\consoleTask_9_1.csprojAssemblyReference.cache
