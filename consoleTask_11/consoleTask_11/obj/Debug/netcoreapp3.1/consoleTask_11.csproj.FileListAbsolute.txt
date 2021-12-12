@@ -1,0 +1,13 @@
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\bin\Debug\netcoreapp3.1\consoleTask_11.exe
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\bin\Debug\netcoreapp3.1\consoleTask_11.deps.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\bin\Debug\netcoreapp3.1\consoleTask_11.runtimeconfig.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\bin\Debug\netcoreapp3.1\consoleTask_11.runtimeconfig.dev.json
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\bin\Debug\netcoreapp3.1\consoleTask_11.dll
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\bin\Debug\netcoreapp3.1\consoleTask_11.pdb
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\obj\Debug\netcoreapp3.1\consoleTask_11.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\obj\Debug\netcoreapp3.1\consoleTask_11.AssemblyInfoInputs.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\obj\Debug\netcoreapp3.1\consoleTask_11.AssemblyInfo.cs
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\obj\Debug\netcoreapp3.1\consoleTask_11.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\obj\Debug\netcoreapp3.1\consoleTask_11.dll
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\obj\Debug\netcoreapp3.1\consoleTask_11.pdb
+D:\Real files\Projeckts\VisualStudio\dotNet\consoleTask_11\consoleTask_11\obj\Debug\netcoreapp3.1\consoleTask_11.genruntimeconfig.cache
